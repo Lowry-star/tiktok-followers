@@ -16,7 +16,7 @@ for i in range(math.ceil(follower_count / 200)):
 	headers = {
 		# use the following link to sign up for an account + get your rapidapi key
 		# https://rapidapi.com/logicbuilder/api/tiktok?endpoint=apiendpoint_22845da6-6ef6-480e-862e-63fbb6b2c226
-	    'x-rapidapi-key': "TODO: your rapidapi key here",
+	    'x-rapidapi-key': "62ab15f434mshd7b4ffd49b7a3bfp16496bjsn8664b3551b2d",
 	    'x-rapidapi-host': "tiktok.p.rapidapi.com"
 	}
 
